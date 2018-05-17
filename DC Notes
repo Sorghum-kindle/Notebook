@@ -1,0 +1,2 @@
+1. When setting target libs, pay attention to the types of lib. 
+  Try your best to use low leakage cell, then we can let DC try it's best to work and PD have more methods to opt it. 
